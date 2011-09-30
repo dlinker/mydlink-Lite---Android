@@ -1,0 +1,18 @@
+This version of the following method using ffmpeg
+
+avcodec_init();
+avcodec_register_all();
+avcodec_find_decoder(CODEC_ID_H264);
+avcodec_alloc_context(); 
+avcodec_alloc_frame();
+avcodec_open(c, codec);
+av_parser_init(CODEC_ID_H264);
+av_init_packet(&avpkt);
+av_parser_parse2;
+avcodec_decode_video2;
+av_free_packet;
+sws_getContext;
+avpicture_fill;
+sws_scale;
+sws_freeContext;
+av_free;

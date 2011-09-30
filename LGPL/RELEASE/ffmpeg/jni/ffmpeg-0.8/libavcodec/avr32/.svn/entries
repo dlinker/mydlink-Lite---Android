@@ -1,0 +1,40 @@
+8
+
+dir
+31
+svn://10.239.54.67/ffmpeg/trunk/samples/ffmpeg/jni/ffmpeg-0.8/libavcodec/avr32
+svn://10.239.54.67/ffmpeg
+
+
+
+2011-09-07T12:04:51.252301Z
+1
+root
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe6128b3-3298-4db3-9fce-5cf92fc05796
+
+mathops.h
+file
+
+
+
+
+2011-09-14T01:10:23.000000Z
+cbbfe08c3755463232aeb227ef4eb14e
+2011-09-07T12:04:51.252301Z
+1
+root
+

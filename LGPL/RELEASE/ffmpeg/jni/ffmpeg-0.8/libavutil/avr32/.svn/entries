@@ -1,0 +1,52 @@
+8
+
+dir
+31
+svn://10.239.54.67/ffmpeg/trunk/samples/ffmpeg/jni/ffmpeg-0.8/libavutil/avr32
+svn://10.239.54.67/ffmpeg
+
+
+
+2011-09-07T12:04:51.252301Z
+1
+root
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe6128b3-3298-4db3-9fce-5cf92fc05796
+
+bswap.h
+file
+
+
+
+
+2011-09-14T01:10:25.000000Z
+4add714a07c94eb06225dd96b8fae4c0
+2011-09-07T12:04:51.252301Z
+1
+root
+
+intreadwrite.h
+file
+
+
+
+
+2011-09-14T01:10:25.000000Z
+722d34d74c708b90cb5b94daea3d7689
+2011-09-07T12:04:51.252301Z
+1
+root
+

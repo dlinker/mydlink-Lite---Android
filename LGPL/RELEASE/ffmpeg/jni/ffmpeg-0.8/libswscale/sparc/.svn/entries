@@ -1,0 +1,40 @@
+8
+
+dir
+31
+svn://10.239.54.67/ffmpeg/trunk/samples/ffmpeg/jni/ffmpeg-0.8/libswscale/sparc
+svn://10.239.54.67/ffmpeg
+
+
+
+2011-09-07T12:04:51.252301Z
+1
+root
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe6128b3-3298-4db3-9fce-5cf92fc05796
+
+yuv2rgb_vis.c
+file
+
+
+
+
+2011-09-14T01:10:26.000000Z
+c9fd639645aae45dde9ea688a90dfae1
+2011-09-07T12:04:51.252301Z
+1
+root
+

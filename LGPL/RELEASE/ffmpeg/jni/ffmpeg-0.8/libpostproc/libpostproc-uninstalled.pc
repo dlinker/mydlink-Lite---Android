@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/homes/jian/ffmpeg/tags/2011_09_07_Base/samples/ffmpeg/jni/ffmpeg-0.8
+
+Name: libpostproc
+Description: FFmpeg post processing library
+Version: 51.2.0
+Requires: libavutil = 51.9.1
+Conflicts:
+Libs: ${libdir}/libpostproc.a 
+Cflags: -I${includedir}
